@@ -7,7 +7,7 @@
 [![Org Member](https://img.shields.io/badge/Team-Student-blueviolet?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-Apache2.0-blue?style=flat-square)]()
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Welcome+to+FosuSec;Foshan+University+CyberSecurity+Lab;Focus+on+CTF%2C+Cryptography%2C+Reverse+Engineering;Security+Development+and+Network+Research;Hack+Ethically%2C+Learn+Together;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Welcome+to+FosuSec+!!;Foshan+University+CyberSecurity+Lab;Focus+on+CTF%2C+Cryptography%2C+Reverse+Engineering;Security+Development+and+Network+Research;Hack+Ethically%2C+Learn+Together;">
 
 </div>
 
