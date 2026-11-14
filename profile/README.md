@@ -1,7 +1,6 @@
 <div align="center">
 
 # Foshan University CyberSecurity Lab
-<img src="./location.svg" width="16" height="16">&nbsp;Foshan, Guangdong, China
 
 > 佛大网络安全实验室 | Student team focused on cybersecurity, CTF and secure development
 
